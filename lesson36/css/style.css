@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+.block {
+    background-color: #e5dae9;
+    font-optical-sizing: auto;
+    overflow: auto;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    width: 1500px;
+    height: 400px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #000;
+
+
+}
+
+.block1 {
+    font-family: "Open Sans", sans-serif;
+    background-color: #a59778;
+    border-radius: 30px;
+    width: 325px;
+    height: 250px;
+    margin: 5px;
+    font-weight: 200;
+    text-align: center;
+    display: inline-block;
+    padding: 5px;
+    box-shadow: inset 1px 0px 10px black;
+}
