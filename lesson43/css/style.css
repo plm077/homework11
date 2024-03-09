@@ -1,0 +1,237 @@
+body {
+    background-color: #181E34;
+    font-size: 16px;
+    line-height: 150%;
+    color: #ffffff;
+    font-family: "Monserrat", "Arial", sans-serif;
+    font-weight: 400;
+}
+
+.header {
+    padding: 30px 36px;
+}
+
+.container {
+    max-width: 930px;
+    margin: 0 auto;
+    padding: 0 15px;
+    height: 100%;
+}
+
+.container2 {
+    display: flex;
+    align-items: center;
+}
+
+.nav_header {
+    margin-left: auto;
+}
+
+.header_menu {
+    display: flex;
+}
+
+.header_list {
+    margin-right: 30px;
+}
+
+.header_button {
+    background-color: #ffffff;
+    border-radius: 100px;
+    color: #2766AE;
+    padding: 14px 30px;
+    font-weight: 500;
+}
+
+.hero-text1 {
+    color: #01A2CB;
+    font-weight: 700;
+    line-height: 20px;
+    text-transform: uppercase;
+    font-family: "Monserrat", "Arial", sans-serif;
+
+}
+
+.hero {
+    background: url(../css/img/hero-bg\ .jpg) 10% 50% / cover no-repeat;
+    padding: 120px 0;
+}
+
+.hero-title {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 49px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.hero-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-text2 {
+    max-width: 436px;
+    font-family: "Monserrat", "Arial", sans-serif;
+    font-weight: 400;
+    size: 16px;
+    line-height: 150%;
+
+}
+
+.txt3 {
+    font-family: "Monserrat", "Arial", sans-serif;
+    font-weight: 400;
+    size: 16px;
+    line-height: 150%;
+    margin-bottom: 15px;
+}
+
+.hero-button {
+    display: flex;
+    flex-direction: column;
+    border-radius: 100px;
+    max-width: 320px;
+    width: 100%;
+
+}
+
+.hero-button1 {
+
+    color: #ffffff;
+    background: linear-gradient(180deg, #00a4cc 0%, #2766AE 100%);
+    height: 56px;
+    padding: 18px 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 100%;
+    max-width: 320px;
+    border-radius: 100px;
+    justify-content: center;
+
+}
+
+.hero-button2 {
+
+    flex-direction: column;
+    border-radius: 100px;
+    color: #ffffff;
+    background: linear-gradient(95.22deg, #00a4cc 6.7%, #2766AE 91.35%);
+    height: 56px;
+    padding: 18px 30px;
+    text-align: center;
+    justify-content: center;
+}
+
+.cards {
+    padding: 120px 0;
+}
+
+.cards2 {
+    font-family: "Monserrat", "Arial", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 49px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.cards-text {
+
+    text-align: center;
+    font-family: "Monserrat", "Arial", sans-serif;
+    max-width: 513px;
+    margin: 0 auto 60px;
+}
+
+.cards-flex {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: -28px;
+    padding-bottom: 30px;
+}
+
+.cards-flex-item {
+    padding: 0 14px;
+    margin-bottom: 28px;
+    flex: 0 0 25%;
+
+}
+
+.cards3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.cards-flex-text {
+    text-align: center;
+
+
+}
+
+.hero-button3 {
+    display: block;
+    background: linear-gradient(180deg, #00a4cc 0%, #2766AE 100%);
+    padding: 18px 30px;
+    justify-content: center;
+    border-radius: 100px;
+    max-width: 436px;
+    text-align: center;
+    margin: 0 auto;
+
+
+}
+
+.cards-flex-iner {
+    background: #197cb8;
+    border: 2px solid #176bae;
+    box-shadow: 4px 4px 13px rgba(5, 13, 41, 0.76);
+    border-radius: 16px;
+    padding: 28px;
+}
+
+.footer {
+    border-top: 1px solid #323952;
+    padding: 60px 0;
+}
+
+.footer-inner {
+    display: flex;
+}
+
+.footer-col {
+    max-width: 204px;
+    width: 100%;
+}
+
+.footer-desk {
+    max-width: 267px;
+    margin-right: auto;
+}
+
+.footer-deska a {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.footer-title {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.footer-item {
+    margin-bottom: 10px;
+}
+.footer-col1 {
+    margin-right: 28px;
+}
